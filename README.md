@@ -10,4 +10,4 @@ Este repositório é dedicado ao armazenamento dos diversos TPC realizados ao lo
 
 > **Foto:**
 
-> ![Foto Perfil](https://photos.fife.usercontent.google.com/pw/AP1GczPVA2WI0aP6CtWqRw9Hc3vTyKbOuhvNYpAoNIhBCeiQ2DpSgvjd4fAM-g=w453-h600-s-no?authuser=0)
+> ![Foto Perfil](https://avatars.githubusercontent.com/u/147328567?v=4&size=64)
