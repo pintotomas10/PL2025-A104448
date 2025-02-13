@@ -10,4 +10,4 @@ Este repositório é dedicado ao armazenamento dos diversos TPC realizados ao lo
 
 > **Foto:**
 
-> ![Foto Perfil](/home/pintotomas10/Downloads/Foto/img.jpg)
+> ![Foto Perfil](https://github.com/user-attachments/assets/575cd72e-b849-4e66-a39b-5c8552c4e80e)
