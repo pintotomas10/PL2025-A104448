@@ -18,7 +18,7 @@ Este programa em Python pretende:
 4. Sempre que for encontrado `=`, o programa coloca o valor calculado numa lista que depois é impressa no final do output.
 5. Caso seja utilizado Ctrl+C no terminal, o programa é fechado.
 
-Para correr o programa é só abrir o terminal, correr `python3 tpc1.py`e escrever os imputs pretendidos
+Para correr o programa é só abrir o terminal, correr `python3 tpc1.py`e escrever os inputs pretendidos
 
 ## Lista de Resultados
 
