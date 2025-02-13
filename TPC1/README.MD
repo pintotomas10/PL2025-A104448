@@ -22,5 +22,5 @@ Para correr o programa é só abrir o terminal, correr `python3 tpc1.py`e escrev
 
 ## Lista de Resultados
 
-- [Ficheiro de Inputs](imput.txt)  
+- [Ficheiro de Inputs](input.txt)  
 - [Ficheiro de Outputs](output.txt)  
