@@ -7,7 +7,7 @@
 > **Nome:** Tomás Pinto Rodrigues
 > **ID:** A104448
 > **Foto:**
-
+>![Foto Perfil](https://github.com/user-attachments/assets/575cd72e-b849-4e66-a39b-5c8552c4e80e)
 
 ## Resumo
 
@@ -22,5 +22,5 @@ Para correr o programa é só abrir o terminal, correr `python3 tpc1.py`e escrev
 
 ## Lista de Resultados
 
-- [Ficheiro de Inputs](input.txt)  
+- [Ficheiro de Inputs](imput.txt)  
 - [Ficheiro de Outputs](output.txt)  
