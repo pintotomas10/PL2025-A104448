@@ -12,9 +12,9 @@
 ## Resumo
 
 Este programa em Python pretende:
-1. Ler o dataset, processá-lo e criar os seguintes resultados:
-    1.1. Lista ordenada alfabeticamente dos compositores musicais;
-    1.2. Distribuição das obras por período: quantas obras catalogadas em cada período;
+1. Ler o dataset, processá-lo e criar os seguintes resultados: <br>
+    1.1. Lista ordenada alfabeticamente dos compositores musicais; <br>
+    1.2. Distribuição das obras por período: quantas obras catalogadas em cada período; <br>
     1.3. Dicionário em que a cada período está a associada uma lista alfabética dos títulos das obras desse período.
 
 Para correr o programa é só abrir o terminal, correr `python3 tpc2.py`.
