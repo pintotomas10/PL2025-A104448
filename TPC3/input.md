@@ -61,4 +61,4 @@ Está aqui o link do site que contém esta letra: [Letra Online](https://genius.
 6. Pretty isn't Pretty
 7. Jealousy, Jealousy
 
-![Olivia Rodrigo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teenvoguecom%2Fstory%2Folivia-rodrigo-lancome-labsolu-rouge-drama-matte-lipstick-campaign-exclusive&psig=AOvVaw1K5jXVs2pEwGrkey5LAJLq&ust=1740686247992000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjt0oeQ4osDFQAAAAAdAAAAABAE)
+![Olivia Rodrigo](https://github.com/user-attachments/assets/5e003ec3-8a4d-4fa3-a5fe-f122b37cf01e)
